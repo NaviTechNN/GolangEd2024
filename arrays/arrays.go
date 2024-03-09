@@ -1,10 +1,10 @@
-package main
+package arrays
 
 import (
 	"fmt"
 )
 
-func main() {
+func Arrays() {
 	//Массивы
 	//Объявление массива
 	var anArray = [4]int{0, 1, 2, 3}

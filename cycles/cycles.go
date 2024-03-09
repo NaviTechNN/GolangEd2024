@@ -1,8 +1,8 @@
-package main
+package cycles
 
 import "fmt"
 
-func main() {
+func Loops() {
 	//Цикл for
 	for i := 0; i < 100; i++ {
 		fmt.Println(i)

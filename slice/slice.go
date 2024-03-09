@@ -1,10 +1,10 @@
-package main
+package slice
 
 import (
 	"fmt"
 )
 
-func main() {
+func Slice() {
 	//Создание среза(slice, mutablelist)
 	a6 := []int{-10, 1, 2, 3, 4, 5}
 	a4 := []int{-1, -2, -3, -4}
